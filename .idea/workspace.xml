@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9158ae5f-1882-403b-9904-aaac8c4e6759" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../dongjf/AMT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dongjf/CPDS-MailService" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dongjf/CPDS-Main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dongjf/INFRA-Ingress" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dongjf/ROP-Server" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dongjf/WSE-Dashboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dongjf/imt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dongjf/reactapp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dongjf/sdp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dongjf/startup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dongjf/wsefront" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dongjf/xiaoxuan-vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2/src/main/java/com/example/demo2/controller/SmellController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../email/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/src/main/java/com/example/email/Swagger2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../email/src/main/java/com/example/email/Swagger2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/src/main/java/com/example/email/controller/homecontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../email/src/main/java/com/example/email/controller/homecontroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatest/javatest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/com/example/test/TestApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/test/java/com/example/test/test/TestApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/deploy/docker/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/build/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/src/assets/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/src/assets/leadspace-blue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/src/components/Page1.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/src/components/Page2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/src/components/leadspace-blue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/src/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/src/static/leadspace-blue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsefront/static/leadspace-blue.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1kj35nhdX0zoLb4DcwkbUWCDBTo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="EmployeeApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="employee-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="project.employeeapi.EmployeeApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9158ae5f-1882-403b-9904-aaac8c4e6759" name="Default Changelist" comment="" />
+      <created>1606199992622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606199992622</updated>
+      <workItem from="1606200004722" duration="1698000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="253" key="GridCell.Tab.0.bottom" timestamp="1606283941703">
+      <screen x="0" y="25" width="1680" height="954" />
+    </state>
+    <state width="1638" height="253" key="GridCell.Tab.0.bottom/0.25.1680.954@0.25.1680.954" timestamp="1606283941703" />
+    <state width="1638" height="253" key="GridCell.Tab.0.center" timestamp="1606283941702">
+      <screen x="0" y="25" width="1680" height="954" />
+    </state>
+    <state width="1638" height="253" key="GridCell.Tab.0.center/0.25.1680.954@0.25.1680.954" timestamp="1606283941702" />
+    <state width="1638" height="253" key="GridCell.Tab.0.left" timestamp="1606283941701">
+      <screen x="0" y="25" width="1680" height="954" />
+    </state>
+    <state width="1638" height="253" key="GridCell.Tab.0.left/0.25.1680.954@0.25.1680.954" timestamp="1606283941701" />
+    <state width="1638" height="253" key="GridCell.Tab.0.right" timestamp="1606283941702">
+      <screen x="0" y="25" width="1680" height="954" />
+    </state>
+    <state width="1638" height="253" key="GridCell.Tab.0.right/0.25.1680.954@0.25.1680.954" timestamp="1606283941702" />
+    <state width="1638" height="253" key="GridCell.Tab.1.bottom" timestamp="1606283941706">
+      <screen x="0" y="25" width="1680" height="954" />
+    </state>
+    <state width="1638" height="253" key="GridCell.Tab.1.bottom/0.25.1680.954@0.25.1680.954" timestamp="1606283941706" />
+    <state width="1638" height="253" key="GridCell.Tab.1.center" timestamp="1606283941705">
+      <screen x="0" y="25" width="1680" height="954" />
+    </state>
+    <state width="1638" height="253" key="GridCell.Tab.1.center/0.25.1680.954@0.25.1680.954" timestamp="1606283941705" />
+    <state width="1638" height="253" key="GridCell.Tab.1.left" timestamp="1606283941703">
+      <screen x="0" y="25" width="1680" height="954" />
+    </state>
+    <state width="1638" height="253" key="GridCell.Tab.1.left/0.25.1680.954@0.25.1680.954" timestamp="1606283941703" />
+    <state width="1638" height="253" key="GridCell.Tab.1.right" timestamp="1606283941706">
+      <screen x="0" y="25" width="1680" height="954" />
+    </state>
+    <state width="1638" height="253" key="GridCell.Tab.1.right/0.25.1680.954@0.25.1680.954" timestamp="1606283941706" />
+  </component>
+</project>
